@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Winston Tsia</h1>
 <h3 align="center">I'm a Software Engineer passionate about solving problems.</h3>
 
-- 👨‍💻 All of my projects are available at [https://wtsia.github.io/Portfolio/](https://wtsia.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://wtsia.github.io/Portfolio/)
 
-- 📝 I regularly write on [https://wtsia.github.io/rover/](https://wtsia.github.io/rover/)
+- 📝 I regularly write on [Rover](https://wtsia.github.io/rover/)
 
 
-### Blogs posts
+### Medium Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
