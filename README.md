@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Winston Tsia</h1>
+<h1 align="center">Hi 👋, I'm Winston</h1>
 <h3 align="center">I'm a Software Engineer passionate about solving problems.</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://wtsia.github.io/Portfolio/)
